@@ -1,0 +1,14 @@
+<svg width="100%" viewBox="0 0 680 280" role="img" style="" xmlns="http://www.w3.org/2000/svg">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">ancovEE package logo - simple</title>
+<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Simple clean logo for the ancovEE R package</desc>
+
+
+<text x="340" y="145" text-anchor="middle" font-family="monospace" font-size="80" font-weight="700" fill="var(--text-primary)" letter-spacing="-2" style="fill:rgb(11, 11, 11);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:80px;font-weight:700;text-anchor:middle;dominant-baseline:auto">ancov<tspan fill="#4472C4" style="fill:rgb(68, 114, 196);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:80px;font-weight:700;text-anchor:middle;dominant-baseline:auto">EE</tspan></text>
+
+
+<text x="340" y="190" text-anchor="middle" font-family="sans-serif" font-size="15" fill="var(--text-secondary)" letter-spacing="3" style="fill:rgb(82, 81, 78);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:15px;font-weight:400;text-anchor:middle;dominant-baseline:auto">R PACKAGE · METABOLIC PHENOTYPING</text>
+
+
+<line x1="240" y1="205" x2="440" y2="205" stroke="#4472C4" stroke-width="2.5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(68, 114, 196);color:rgb(11, 11, 11);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+</svg>

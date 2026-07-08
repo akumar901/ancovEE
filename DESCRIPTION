@@ -1,0 +1,27 @@
+Package: ancovEE
+Title: ANCOVA-Based Energy Expenditure Analysis for Mouse Metabolic Phenotyping
+Version: 0.1.0
+Authors@R: person("Your", "Name", email = "your@email.com", role = c("aut", "cre"))
+URL: https://github.com/akumar901/ancovEE
+BugReports: https://github.com/akumar901/ancovEE/issues
+Description: A toolkit for mouse metabolic phenotyping energy expenditure (EE)
+    analysis following the NIDDK Mouse Metabolic Phenotyping Centers (MMPC)
+    framework. The package provides a step-by-step workflow: (1) parsing NMR
+    body composition data from Bruker minispec Excel exports, (2) preparing
+    input files for ANCOVA analysis, and (3) running ANCOVA-based EE adjustment
+    for body mass/composition covariates including detection of group-by-mass
+    interactions and Johnson-Neyman cutoffs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports:
+    ggplot2 (>= 3.0.0),
+    gridExtra (>= 2.0),
+    readxl (>= 1.3.0),
+    openxlsx (>= 4.2.0)
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
