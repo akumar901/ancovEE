@@ -2,9 +2,9 @@
 
 <img src="man/figures/logo.svg" width="400px"/>
 
-Author: Amar Kumar
-Version: 0.1.0
-License: MIT
+**Author:** Amar Kumar  
+**Version:** 0.1.0  
+**License:** MIT  
 An R package for energy expenditure analysis in mouse metabolic phenotyping studies
 
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-blue)](https://www.r-project.org/)
